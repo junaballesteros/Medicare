@@ -24,6 +24,3 @@ Medicare is a user-friendly online appointment system designed to streamline the
 5. Attend the appointment either in person or through teleconsultation.
 6. Provide feedback and ratings after the appointment.
 
-
-# Medicare
-# Medicare
